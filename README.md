@@ -6,12 +6,12 @@
 
 ## Opencart
 
-- [Инструкция](#)
+- [Инструкция](opencart/Установка_OVG_Pay_плагина_на_платформу_Opencart.pdf)
 - [Плагин](opencart/ovgpay-api-oc3-v1.ocmod.zip)
 
 ## WordPress (Woocommerce)
 
-- [Инструкция](#)
+- [Инструкция](wordpress-woocommerce/Установка_OVG_Pay_плагина_на_платформу_Wordpress_Woocommerce.pdf)
 - [Плагин (RU)](wordpress-woocommerce/ovgpay-gateway-ru.php.zip)
 - [Плагин (EN)](wordpress-woocommerce/ovgpay-gateway-en.php.zip)
 
